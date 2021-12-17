@@ -1,6 +1,6 @@
 package main
 
-import "syscall/js"
+import "github.com/gopherjs/gopherjs/js"
 
 func main() {
 	//console은 *js.Object형 변수
